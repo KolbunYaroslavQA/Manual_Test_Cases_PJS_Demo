@@ -1,1 +1,1 @@
-# Manual_Test_Cases_PJS_Demo
+# Manual_Test_Cases_Demo
